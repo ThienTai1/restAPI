@@ -1,0 +1,35 @@
+{
+    "posts": [
+        {
+            "id": 1,
+            "title": "json-server",
+            "content":"dlfsajdfosjafjajdfsodfjaso",
+            "author": "typicode",
+            "base64Image":""
+        },
+        {
+            "id": 2,
+            "title": "how to be become a web developer",
+            "content":"dlfsajdfosjafjajdfsodfjaso",
+            "author": "typicode",
+            "base64Image":""
+        },
+        {
+            "id": 3,
+            "title": "how to be become a AI developer",
+            "content":"dlfsajdfosjafjajdfsodfjaso",
+            "author": "typicode",
+            "base64Image":""
+        }
+    ],
+    "comments": [
+        {
+            "id": 1,
+            "body": "some comment",
+            "postId": 1
+        }
+    ],
+    "profile": {
+        "name": "typicode"
+    }
+}
